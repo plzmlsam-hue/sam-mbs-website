@@ -1,1 +1,1 @@
-# sam-mbs-website
+Upload these files to a GitHub Pages repository and enable Pages from the main branch.

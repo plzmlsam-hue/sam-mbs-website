@@ -1,0 +1,10 @@
+
+body{font-family:Arial,sans-serif;margin:0;color:#1b1b1b;line-height:1.6}
+header{display:flex;justify-content:space-between;padding:16px 8%;position:sticky;top:0;background:#fff}
+.logo span{color:#0b5ed7}
+.hero{padding:100px 8%;background:#eef5ff}
+.btn{background:#0b5ed7;color:#fff;padding:12px 20px;text-decoration:none;border-radius:6px}
+section{padding:60px 8%}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px}
+.grid div{padding:20px;border:1px solid #ddd;border-radius:8px}
+footer{padding:30px;text-align:center;background:#111;color:#fff}
